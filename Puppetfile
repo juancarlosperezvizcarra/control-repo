@@ -7,6 +7,7 @@ mod "puppetlabs/stdlib",      '4.11.0'
 mod "puppetlabs/ntp",         :latest
 mod "puppetlabs/apache",      :latest
 mod "puppetlabs/concat",      '2.2.1'
+mod "example42/network",      '3.3.3'   
 
 
 #mod 'apache',
